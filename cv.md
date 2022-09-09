@@ -5,8 +5,6 @@
 
 # Koriev Islom
 
----
-
 ## Contacts
 
 - **Location:** Namangan, Uzbekistan
@@ -29,8 +27,8 @@ Thanks to the staff and think You guys help me to achieve my goals. Wish you bes
 
 ## Skills
 
-    - HTML
-    - CSS/SCSS
+    - HTML/CSS/SCSS
+    - Bootstrap
     - JavaScript (Basic)
     - VueJS (Basic)
 Link to my work: [https://app.netlify.com/teams/islom0870/overview](https://app.netlify.com/teams/islom0870/overview)
