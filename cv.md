@@ -13,6 +13,7 @@
 - **Telegram:** @islomkoriev
 ## About me
 I am 30 years old. I decided to learn programming so I gave up my job and focused on coding and learning English. 
+Here link to my work: [https://app.netlify.com/teams/islom0870/overview](https://app.netlify.com/teams/islom0870/overview).
 My purpose make something new in this field and I do my best. Also I am very glad to study here in RS School. 
 Thanks to the staff and think You guys help me to achieve my goals. Wish you best regards.
 ## Background
@@ -31,7 +32,7 @@ Thanks to the staff and think You guys help me to achieve my goals. Wish you bes
     - Bootstrap
     - JavaScript (Basic)
     - VueJS (Basic)
-Link to my work: [https://app.netlify.com/teams/islom0870/overview](https://app.netlify.com/teams/islom0870/overview)
+
 ## Language
 
 - Uzbek
