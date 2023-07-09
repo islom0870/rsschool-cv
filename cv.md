@@ -1,10 +1,10 @@
 # rsschool-cv
+
 ![IQ](https://github.com/islom0870/rsschool-cv/assets/110163624/536c326b-fc67-42a1-9acc-4360adb586bf)
 
 # Koriev Islom
 
-I am 31 years old. I decided to discover programming so I gave up my job and focused on coding. I aim to facilitate the process of programming and learning to program. At the same time am going to develop a product that will be used by millions of people.
----
+## I am 31 years old. I decided to discover programming so I gave up my job and focused on coding. I aim to facilitate the process of programming and learning to program. At the same time am going to develop a product that will be used by millions of people.
 
 ## Contacts
 
@@ -29,6 +29,7 @@ I am 31 years old. I decided to discover programming so I gave up my job and foc
 
     - HTML
     - CSS/SCSS
+    - Bootstrap
     - JavaScript (Basic)
     - VueJS (Basic)
 
