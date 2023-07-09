@@ -4,7 +4,7 @@
 
 # Koriev Islom
 
-## I am 31 years old. I decided to discover programming so I gave up my job and focused on coding. I aim to facilitate the process of programming and learning to program. At the same time am going to develop a product that will be used by millions of people.
+I am 31 years old. I decided to discover programming so I gave up my job and focused on coding. I aim to facilitate the process of programming and learning to program. At the same time am going to develop a product that will be used by millions of people.
 
 ## Contacts
 
