@@ -97,6 +97,7 @@ nav {
   width: 35%;
   background: #c7d0d8;
   display: flex;
+
   @media (max-width: 1000px) {
     width: 45%;
   }
@@ -130,12 +131,13 @@ nav {
 .right_side {
   width: 65%;
   padding-right: 61px;
+
+  @media (max-width: 1000px) {
+    width: 55%;
+  }
   @media (max-width: 800px) {
     padding-right: 0;
     width: 100%;
-  }
-  @media (max-width: 1000px) {
-    width: 55%;
   }
 
   .last_name {
@@ -287,12 +289,13 @@ nav {
       justify-content: space-between;
       padding: 31px 71px 71px 51px;
       flex-wrap: wrap;
-      @media (max-width: 1051px) {
-        justify-content: space-evenly;
-      }
+
       @media (max-width: 1241px) {
         padding: 21px;
         gap: 11px;
+      }
+      @media (max-width: 1051px) {
+        justify-content: space-evenly;
       }
       .card {
         .card_image {
@@ -354,15 +357,16 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  @media (max-width: 500px) {
-    padding: 5px 5px;
-  }
+
   @media (max-width: 1000px) {
     height: auto;
   }
   @media (max-width: 800px) {
     flex-direction: column;
     gap: 21px;
+  }
+  @media (max-width: 500px) {
+    padding: 5px 5px;
   }
   p {
     font-weight: bold;

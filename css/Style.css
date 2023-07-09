@@ -151,15 +151,15 @@ nav ul li a:hover {
   width: 65%;
   padding-right: 61px;
 }
+@media (max-width: 1000px) {
+  .right_side {
+    width: 55%;
+  }
+}
 @media (max-width: 800px) {
   .right_side {
     padding-right: 0;
     width: 100%;
-  }
-}
-@media (max-width: 1000px) {
-  .right_side {
-    width: 55%;
   }
 }
 .right_side .last_name h1 {
@@ -335,15 +335,15 @@ nav ul li a:hover {
   padding: 31px 71px 71px 51px;
   flex-wrap: wrap;
 }
-@media (max-width: 1051px) {
-  .section_2 .content_about .projects {
-    justify-content: space-evenly;
-  }
-}
 @media (max-width: 1241px) {
   .section_2 .content_about .projects {
     padding: 21px;
     gap: 11px;
+  }
+}
+@media (max-width: 1051px) {
+  .section_2 .content_about .projects {
+    justify-content: space-evenly;
   }
 }
 .section_2 .content_about .projects .card .card_image {
@@ -406,11 +406,6 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
-@media (max-width: 500px) {
-  footer {
-    padding: 5px 5px;
-  }
-}
 @media (max-width: 1000px) {
   footer {
     height: auto;
@@ -420,6 +415,11 @@ footer {
   footer {
     flex-direction: column;
     gap: 21px;
+  }
+}
+@media (max-width: 500px) {
+  footer {
+    padding: 5px 5px;
   }
 }
 footer p {
