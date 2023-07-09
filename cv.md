@@ -1,4 +1,4 @@
-# rsschool-cv
+# [rsschool-cv](https://islom0870.github.io/rsschool-cv/cv)
 
 ![IQ](https://github.com/islom0870/rsschool-cv/assets/110163624/536c326b-fc67-42a1-9acc-4360adb586bf)
 
