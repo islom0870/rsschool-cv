@@ -1,9 +1,9 @@
 # rsschool-cv
-
-![](../CV&Markdown/IQ.jpg)
+![IQ](https://github.com/islom0870/rsschool-cv/assets/110163624/536c326b-fc67-42a1-9acc-4360adb586bf)
 
 # Koriev Islom
 
+I am 31 years old. I decided to discover programming so I gave up my job and focused on coding. I aim to facilitate the process of programming and learning to program. At the same time am going to develop a product that will be used by millions of people.
 ---
 
 ## Contacts
@@ -12,6 +12,7 @@
 - **Phone:** +99890 222-85-35
 - **Email:** islom0870@gmail.com
 - **Telegram:** @islomkoriev
+- **GitHub:** @islom0870
 
 ## Background
 
